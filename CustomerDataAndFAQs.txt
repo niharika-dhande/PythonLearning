@@ -1,0 +1,42 @@
+
+
+Name: niharika
+Contact Number: 12324567890
+Email: niharika@gmail.com
+FAQs:
+Q: 
+A: this is an answer of unknown question
+Q: what is the purpose of this code.
+A: just to test this code in running or not
+
+
+Name: diksha
+Contact Number: 4569871230
+Email: diksha@gmail.com
+FAQs:
+Q: what should i learn first , if i want to learn AI/ML
+A: python and AI/ML concepts with deeplearning is required to learn AI/ML
+
+
+Name: niharika akash dhande
+Contact Number: 544687798798
+Email: jkhdasgdhasd@akhdkahs.com
+FAQs:
+Q: dksdhklashdlkas
+A: sdisadjoidoasj
+
+
+Name: milind
+Contact Number: 1234567890
+Email: hsjdhksjdkhasdk@kjsdhkjshdka.com
+FAQs:
+Q: do you have any online resource for phython
+A: geeksforgeeks.com
+
+
+Name: hkjhkkj
+Contact Number: 65465465465
+Email: hljhlkjlkl@kjk.kl
+FAQs:
+Q: jkhkjk
+A: kjkhj
